@@ -9,7 +9,7 @@
 
 ## 🚀 Glad to See You Here!
 
-<img align="right" alt="Ameed Darawsheh" src="images/coding.gif" width="320px" />
+<img align="right" alt="Ameed Darawsheh" src="images/coding.gif" width="280px" />
 
 I love interacting with the community, sharing knowledge, and learning new things.
 
