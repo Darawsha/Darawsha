@@ -17,7 +17,7 @@ I love interacting with the community, sharing knowledge, and learning new thing
 - **Who I Am:** Ameed Darawsheh (aka Al-Omdeh)  
 - **What I Do:** Engineer by day, coder by passion  
 - **Email:** [omdeh4@gmail.com](mailto:omdeh4@gmail.com)  
-- **Discord Server :** [Check Bit Community](https://discord.gg/9gTs3k8Fdm)  
+- **Discord Server :** [AlgoWise Community](https://discord.gg/9gTs3k8Fdm)  
 - **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
 
 ---
