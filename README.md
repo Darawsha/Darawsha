@@ -1,48 +1,26 @@
-<h1 align="center">👨‍💻 Ameed Darawsheh</h1>
+### Hi there, I'm <a href="http://algotc.com" target="_blank" title="Ameed Darawsheh">Ameed Darawsheh</a> 👋
 
-<p align="center">
-  <a href="http://algotc.com" target="_blank" title="Ameed Darawsheh">
-    <strong>Computer Engineer | Back-End Developer</strong>
-  </a>
-</p>
+<a href="https://linkedin.com/in/omdeh"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48" alt="LinkedIn"></a>
+<a href="https://x.com/Ameeddarawsha"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="48" alt="X (Twitter)"></a>
+<a href="https://discord.gg/9gTs3k8Fdm"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" alt="Discord"></a>
+<a href="https://instagram.com/ameeddarawsha"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" alt="Instagram"></a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/omdeh" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Ameeddarawsha" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="40" alt="X (Twitter)" />
-  </a>
-  <a href="https://discord.gg/9gTs3k8Fdm" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/ameeddarawsha" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40" alt="Instagram" />
-  </a>
-</p>
-
----
+</br>
 
 ## 🚀 Glad to See You Here!
 
-Welcome to my digital space! I’m a passionate engineer with a love for back-end development, databases, and clean architecture. I enjoy collaborating with others, solving real-world problems, and staying in sync with the latest tech trends.
+[//]: # (<img align="right" alt="Ameed Darawsheh" src="images/coding.gif" width="280px" />)
+
+I love interacting with the community, sharing knowledge, and learning new things.
+
+### A Little About Me:
+- **Who I Am:** Ameed Darawsheh (aka Al-Omdeh)  
+- **What I Do:** Engineer by day, coder by passion  
+- **Email:** [omdeh4@gmail.com](mailto:omdeh4@gmail.com)  
+- **Discord Server :** [AlgoTC Community](https://discord.gg/9gTs3k8Fdm)  
+- **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
 
 ---
 
-## 🧾 A Little About Me
-
-```sql
--- Meet the Dev
-CREATE TABLE AboutMe (
-    name VARCHAR(100),
-    title VARCHAR(100),
-    skills TEXT
-);
-
-INSERT INTO AboutMe (name, title, skills) VALUES (
-    'Ameed Darawsheh',
-    'Back-End Developer',
-    'Java, PostgreSQL, C/C++, Python, Swift, JavaScript'
-);
-
-SELECT * FROM AboutMe;
+## 🤝 Let’s Connect!
+I’m always excited to connect with fellow developers and tech enthusiasts! Feel free to reach out on [LinkedIn](https://linkedin.com/in/omdeh) – mention you found me on GitHub! 😊
