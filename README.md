@@ -1,9 +1,7 @@
-### Hi there, I'm <a href="http://algotc.com" target="_blank" title="Ameed Darawsheh">Ameed Darawsheh</a> 👋
+### Hi there, I'm <a href="http://alomdeh.com" target="_blank" title="Ameed Darawsheh">Ameed Darawsheh</a> 👋
 
-<a href="https://linkedin.com/in/omdeh"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48" alt="LinkedIn"></a>
-<a href="https://x.com/Ameeddarawsha"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="48" alt="X (Twitter)"></a>
-<a href="https://discord.gg/9gTs3k8Fdm"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="48" alt="Discord"></a>
-<a href="https://instagram.com/ameeddarawsha"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" alt="Instagram"></a>
+<a href="https://linkedin.com/in/omdeh"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" width="48" alt="LinkedIn"></a>
+<a href="https://x.com/Ameeddarawsha"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-auto.svg" width="48" alt="X (Twitter)"></a>
 
 </br>
 
@@ -17,7 +15,8 @@ I love interacting with the community, sharing knowledge, and learning new thing
 - **Who I Am:** Ameed Darawsheh (aka Al-Omdeh)  
 - **What I Do:** Engineer by day, coder by passion  
 - **Email:** [omdeh4@gmail.com](mailto:omdeh4@gmail.com)  
-- **Discord Server :** [AlgoTC Community](https://discord.gg/9gTs3k8Fdm)  
+- **Discord Server :** [AlgoTC Community](https://discord.gg/9gTs3k8Fdm)
+- **Website:** [AlgoTC.com](https://algotc.com) – Curated roadmaps and tech courses
 - **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
 
 ---
