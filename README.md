@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/omdeh"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" width="48" alt="LinkedIn"></a>
 <a href="https://x.com/Ameeddarawsha"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-auto.svg" width="48" alt="X (Twitter)"></a>
-
+<a href="https://codeforces.com/profile/omdeh"><img src="images/codeforces.svg" width="48" alt="CodeForces"></a>
 </br>
 
 ## 🚀 Glad to See You Here!
