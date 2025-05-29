@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="http://alomdeh.com" target="_blank" title="Ameed Darawsheh">Ameed Darawsheh</a> 👋
+### Hi there, I'm <a href="https://ameed.me" target="_blank" title="Ameed Darawsheh">Ameed Darawsheh</a> 👋
 
 <a href="https://linkedin.com/in/omdeh"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" width="48" alt="LinkedIn"></a>
 <a href="https://x.com/Ameeddarawsha"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-auto.svg" width="48" alt="X (Twitter)"></a>
