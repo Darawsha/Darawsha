@@ -18,8 +18,3 @@ I love interacting with the community, sharing knowledge, and learning new thing
 - **Discord Server :** [AlgoTC Community](https://discord.gg/9gTs3k8Fdm)
 - **Website:** [AlgoTC.com](https://algotc.com) – Curated roadmaps and tech courses
 - **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
-
----
-
-## 🤝 Let’s Connect!
-I’m always excited to connect with fellow developers and tech enthusiasts! Feel free to reach out on [LinkedIn](https://linkedin.com/in/omdeh) – mention you found me on GitHub! 😊
