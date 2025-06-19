@@ -15,6 +15,4 @@ I love interacting with the community, sharing knowledge, and learning new thing
 - **Who I Am:** Ameed Darawsheh (aka Al-Omdeh)  
 - **What I Do:** Engineer by day, coder by passion  
 - **Email:** [info@ameed.me](mailto:info@ameed.me)  
-- **Discord Server :** [AlgoTC Community](https://discord.gg/9gTs3k8Fdm)
-- **Website:** [AlgoTC.com](https://algotc.com) – Curated roadmaps and tech courses
 - **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
