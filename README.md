@@ -14,5 +14,4 @@ I love interacting with the community, sharing knowledge, and learning new thing
 - **Who I Am:** Ameed Darawsheh (aka Al-Omdeh)  
 - **What I Do:** Engineer by day, coder by passion  
 - **Email:** [info@ameed.me](mailto:info@ameed.me)
-- **Join our Discord server: [Palestine PC Hub](https://discord.com/invite/9gTs3k8Fdm)**
 - **Fun Fact:** I love connecting with people who geek out over tech as much as I do!
